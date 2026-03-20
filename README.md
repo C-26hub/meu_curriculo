@@ -1,6 +1,6 @@
 # 📄 Currículo em HTML e CSS
 
-Este projeto é um currículo simples desenvolvido utilizando apenas **HTML5** e **CSS3**, com foco em estrutura semântica e estilização limpa.
+Este projeto é um currículo simples desenvolvido utilizando apenas **HTML5**, **CSS3** e **JS**, com foco em estrutura semântica e estilização limpa.
 
 ## 🚀 Objetivo
 
