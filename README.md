@@ -15,24 +15,31 @@ O objetivo deste projeto é praticar conceitos básicos de desenvolvimento web, 
 
 - HTML5
 - CSS3
+- JS
 
 ## 📁 Estrutura do projeto
 
-📁meu_curriculo
+```
+📁meu_curriculo       
 ┣ 📄 README.md    
 ┗ 📁 curriculo      
     ┣ 📄 index.html      
     ┣ 📄 style.css     
     ┣ 📄 script.js     
     ┗ 📁 assets      
+```
 
 ## 💻 Como visualizar o projeto
 
-1. Clone este repositório: https://github.com/C-26hub/meu_curriculo.git 
+1. Clone este repositório: 
 
-2. Acesse a pasta do projeto: curriculo
+```bash
+https://github.com/C-26hub/meu_curriculo.git` 
+```
 
-3. Abra o arquivo `index.html` no navegador.
+3. Acesse a pasta do projeto: curriculo
+
+4. Abra o arquivo `index.html` no navegador.
 
 ## ✨ Funcionalidades
 
