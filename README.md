@@ -34,7 +34,7 @@ O objetivo deste projeto é praticar conceitos básicos de desenvolvimento web, 
 1. Clone este repositório: 
 
 ```bash
-https://github.com/C-26hub/meu_curriculo.git` 
+https://github.com/C-26hub/meu_curriculo.git
 ```
 
 3. Acesse a pasta do projeto: curriculo
